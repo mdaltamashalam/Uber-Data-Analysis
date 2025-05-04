@@ -114,3 +114,15 @@ From our model comparisons, **CatBoost Regressor** delivered the best performanc
 It is recommended for future Uber price prediction tasks due to its robustness and superior accuracy.
 
 ---
+
+### 📄 License
+
+This project is protected under copyright © Md Altamash Alam, 2025.
+
+All rights reserved. Unauthorized copying, distribution, modification, or use of any part of this project without explicit permission is strictly prohibited.
+
+If you wish to use or reference any part of this project for academic, personal, or commercial purposes, please contact the author for permission.
+
+---
+
+© Md Altamash Alam, 2025 – All Rights Reserved.
